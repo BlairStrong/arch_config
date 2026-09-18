@@ -1,0 +1,6 @@
+# One systemd service/timer per line.
+NetworkManager.service
+bluetooth.service
+docker.service
+fstrim.timer
+paccache.timer

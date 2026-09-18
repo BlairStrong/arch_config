@@ -1,0 +1,104 @@
+# Kernel / firmware
+linux
+linux-headers
+linux-lts
+linux-lts-headers
+linux-firmware
+
+# Core tools
+base-devel
+git
+sudo
+openssh
+curl
+wget
+rsync
+unzip
+zip
+7zip
+man-db
+man-pages
+less
+which
+pciutils
+usbutils
+
+# Desktop / Hyprland / integrated shell
+hyprland
+dms-shell
+dms-shell-hyprland
+quickshell
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+xdg-user-dirs
+hyprpolkitagent
+sddm
+
+# Wayland desktop utilities
+kitty
+thunar
+gvfs
+tumbler
+file-roller
+wl-clipboard
+cliphist
+grim
+slurp
+dgop
+matugen
+cava
+qt6-multimedia
+brightnessctl
+playerctl
+
+# Network / audio / Bluetooth
+networkmanager
+bluez
+bluez-utils
+pipewire
+pipewire-audio
+pipewire-alsa
+pipewire-pulse
+wireplumber
+
+# Fonts
+noto-fonts
+noto-fonts-emoji
+ttf-jetbrains-mono-nerd
+
+# Browser
+firefox
+
+# Terminal / editor utilities
+bash-completion
+stow
+tmux
+vim
+neovim
+ripgrep
+fd
+fzf
+jq
+bat
+eza
+tree
+btop
+fastfetch
+
+# Development
+python
+python-pip
+python-virtualenv
+nodejs
+npm
+
+# Containers / cloud / infrastructure
+docker
+docker-buildx
+docker-compose
+terraform
+aws-cli-v2
+
+# Maintenance
+pacman-contrib
+fwupd

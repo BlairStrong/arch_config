@@ -1,0 +1,2 @@
+# Intentionally empty to begin with.
+# Add one AUR package name per line. install.sh will bootstrap yay only if needed.
